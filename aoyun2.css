@@ -1,0 +1,60 @@
+#biaoti {
+	height: 10%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	font-size: 1.875rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background:  #B5EDFF ;
+	border: 5px solid #ffffff;
+	border-radius: 20px;
+	
+}
+
+
+#b1{
+	width: 35%;
+	height: 55%;
+	position: absolute;
+	top: 15%;
+	left: 0%;
+	background:  #B5EDFF ;
+	border: 5px solid #ffffff;
+	border-radius: 15px;
+	
+}
+
+#b2{
+	position: absolute;
+	width: 35%;
+	height: 60%;
+	top: 75%;
+	left: 0%;
+	background:  #B5EDFF ;
+	border: 5px solid #ffffff;
+	border-radius: 15px;
+	
+}
+#a2{
+	position: absolute;
+	width: 63%;
+	height: 55%;
+	top: 80%;
+	left: 36%;
+	background:  #B5EDFF ;
+	border: 5px solid #ffffff;
+	border-radius: 15px;
+	
+}
+#fanhui{
+	position: absolute;
+	width: 5%;
+	height: 5%;
+	top: 3%;
+	left: 2%;
+	background: #B5EDFF;
+	
+}

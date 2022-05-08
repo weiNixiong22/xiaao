@@ -1,0 +1,107 @@
+#title {
+	height: 10%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	font-size: 1.875rem;
+	font-style:{color:'white'};
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background:  #B5EDFF ;
+	border: 5px solid #ffffff;
+	border-radius: 20px;
+}
+
+#zhu{
+	width: 25%;
+	height: 90%;
+	position: absolute;
+	top: 10%;
+	left: 0%;
+	background:  #fffae8;
+	border: 4px solid #ffffff;
+	border-radius: 15px;
+}
+#china{
+	width: 45%;
+	height: 90%;
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	background:  #fffae8;
+	border: 4px solid #ffffff;
+	border-radius: 15px;
+}
+
+#bing{
+	width: 30%;
+	height: 45%;
+	position: absolute;
+	top: 10%;
+	left: 70%;
+	background:   #fffae8;
+	border: 4px solid #ffffff;
+	border-radius: 15px;
+}
+
+#hui{
+	width: 30%;
+	height: 45%;
+	position: absolute;
+	top: 55%;
+	left: 70%;
+	background:   #fffae8;
+	border: 4px solid #ffffff;
+	border-radius: 15px;
+}
+
+#a2{
+	position: absolute;
+	width: 65%;
+	height: 45%;
+	top: 55%;
+	left: 35%;
+	background: #fffae8;
+	border: 4px solid #ffffff;
+	border-radius: 15px;
+}
+#next{
+	position: absolute;
+	width: 5%;
+	height: 4%;
+	top: 4%;
+	left: 92%;
+	background:  #B5EDFF;
+	border: 1px solid #B5EDFF;
+	border-radius: 1px;
+}
+#shangyiye{
+	position: absolute;
+	width: 5%;
+	height: 4%;
+	top: 4%;
+	left: 8%;
+	background:  #B5EDFF;
+	border: 1px solid #B5EDFF;
+	border-radius: 1px;
+}
+*{   
+  font-family: 微軟正黑體;
+  letter-spacing: 1px;
+/*   border: solid 1px; */
+/*   position: relative; */
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #B5EDFF;
+  color: #000000;
+  
+}
+
+  
